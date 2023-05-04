@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "thanks for the submission&#33;&#33;",
+      "setup": "",
+      "run": "gcc malloc23.c",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 100
+    }
+  ]
+}
