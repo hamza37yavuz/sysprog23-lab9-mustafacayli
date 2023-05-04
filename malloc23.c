@@ -13,7 +13,7 @@ typedef struct block {
     //struct block *prev;
     char data[];
 } Block;
-
+//değişim///
 /*head of free block list*/
 Block *head = NULL;
 
